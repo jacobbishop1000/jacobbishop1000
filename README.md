@@ -1,6 +1,6 @@
 # Hi, I'm Jacob 👋
 
-Senior Full-Stack Software Engineer at Eli Lilly building on event-driven 
+Senior Full-Stack Software Engineer at Eli Lilly building event-driven 
 systems, developer platforms, and AI-augmented engineering tooling.
 
 ## What I'm working on
@@ -11,6 +11,15 @@ systems, developer platforms, and AI-augmented engineering tooling.
 ## Background
 B.S. Computer Science + B.S. Business Analytics, Ball State University. 
 While there I loved playing VALORANT on the varsity esports team.
+
+## Tech I've Worked With
+**Languages:** TypeScript, JavaScript, Python, Kotlin, Go, Java
+**Frameworks:** Spring Boot, FastAPI, React, Express, Jest
+**Infrastructure:** Docker, Kubernetes, GitHub Actions
+**Data & Messaging:** PostgreSQL, MySQL, MongoDB, Kafka, Temporal
+**Cloud:** AWS (EKS, ECR, Fargate, S3, Lambda, IAM), Azure (Functions, API Management, Entra ID)
+**Observability & Tooling:** OpenTelemetry, Google Analytics 4, Jira
+**Certifications:** AWS Cloud Practitioner, Azure Fundamentals, SAFe Certified PO/PM, ITIL Foundations
 
 ## Find me elsewhere
 [LinkedIn](https://linkedin.com/in/jacobbishop23)
