@@ -10,8 +10,7 @@ systems, developer platforms, and AI-augmented engineering tooling.
 
 ## Background
 B.S. Computer Science + B.S. Business Analytics, Ball State University. 
-Best Student Paper, MWDSI 2023, for undergraduate research applying 
-logistic regression to esports data.
+While there I loved playing VALORANT on the varsity esports team.
 
 ## Find me elsewhere
 [LinkedIn](https://linkedin.com/in/jacobbishop23)
