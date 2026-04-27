@@ -1,7 +1,6 @@
 # Hi, I'm Jacob 👋
 
-- Senior Full-Stack Software Engineer at Eli Lilly building event-driven 
-- systems, developer platforms, and AI-augmented engineering tooling.
+- Senior Full-Stack Software Engineer at Eli Lilly building event-driven systems, developer platforms, and AI-augmented engineering tooling.
 
 ## What I'm working on
 - Building HIPAA-compliant Kotlin/Spring Boot microservices on Kafka and Temporal
