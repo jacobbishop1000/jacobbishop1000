@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jacob 👋
 
-<!--
-**jacobbishop1000/jacobbishop1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Software Engineer at Eli Lilly building on event-driven 
+systems, developer platforms, and AI-augmented engineering tooling.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building HIPAA-compliant Kotlin/Spring Boot microservices on Kafka and Temporal
+- Exploring Claude Code patterns for team development workflows
+- Side projects: Homebrew linux server!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+B.S. Computer Science + B.S. Business Analytics, Ball State University. 
+Best Student Paper, MWDSI 2023, for undergraduate research applying 
+logistic regression to esports data.
+
+## Find me elsewhere
+[LinkedIn](https://linkedin.com/in/jacobbishop23)
