@@ -5,7 +5,7 @@
 ## What I'm working on
 - Building HIPAA-compliant Kotlin/Spring Boot microservices on Kafka and Temporal
 - Exploring Claude Code patterns for team development workflows
-- Side projects: Homebrew linux server!
+- Side projects: Homelabbing a linux server with my old laptop
 
 ## Tech I've Worked With
 - **Languages:** TypeScript, JavaScript, Python, Kotlin, Go, Java
